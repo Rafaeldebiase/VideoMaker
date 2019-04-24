@@ -1,0 +1,19 @@
+{
+  "name": "videomaker",
+  "version": "1.0.0",
+  "description": "Bot automatizador de vídeos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafaeldebiase/VideoMaker.git"
+  },
+  "author": "Rafael de Biase",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rafaeldebiase/VideoMaker/issues"
+  },
+  "homepage": "https://github.com/Rafaeldebiase/VideoMaker#readme"
+}
