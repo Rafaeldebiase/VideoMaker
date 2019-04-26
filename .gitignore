@@ -60,9 +60,8 @@ typings/
 # next.js build output
 .next
 
-# credentials
-credentials/algorithmia.credentials.json
-credentials/watsonNaturalLanguageUnderstanding.credentials.json
-
 # arquivo criado pelo robo no pc 
 content.json
+
+# todas as credenciais
+credentials/
