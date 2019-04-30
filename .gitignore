@@ -63,5 +63,8 @@ typings/
 # arquivo criado pelo robo no pc 
 content.json
 
+# arquivos de imagens pelo download
+content/*.png
+
 # todas as credenciais
 credentials/
