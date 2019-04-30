@@ -65,6 +65,7 @@ content.json
 
 # arquivos de imagens pelo download
 content/*.png
+content/*.jpg
 
 # todas as credenciais
 credentials/
