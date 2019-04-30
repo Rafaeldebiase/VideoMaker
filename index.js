@@ -8,8 +8,8 @@ const robots = {
 
 async function start() {
 
-    // await robots.userInput()
-    // await robots.text()
+    await robots.userInput()
+    await robots.text()
     await robots.image()
 
     const content = robots.state.load()
